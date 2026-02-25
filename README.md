@@ -46,4 +46,4 @@ Display image + title dynamically.
 
 ## ✨ Author
 
-Created by [AmNoor]
+Created by A. Noor

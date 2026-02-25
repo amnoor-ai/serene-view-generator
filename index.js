@@ -27,4 +27,4 @@ btnEl .addEventListener("click", async function(){
     btnEl.disabled = false;
     btnEl.innerText = "Get Serene Images";
 });
-console.log(sereneImgEl);
+
